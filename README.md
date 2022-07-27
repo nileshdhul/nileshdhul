@@ -6,6 +6,7 @@
 ## Tech Stack
 
 *Coding Languages:*  C++,Python ,Java
+
 *Client:* React, HTML ,CSS
 
 
