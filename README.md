@@ -5,6 +5,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshdhul&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false&layout=compact" alt="omksp stats card" /></p>
 ## Tech Stack
 
-*Client:* React, Redux, TailwindCSS
+*Coding Languages:*  C++,Python ,Java
+*Client:* React, HTML ,CSS
 
-*Server:* Node, Express
+
